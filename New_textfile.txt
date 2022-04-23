@@ -1,9 +1,6 @@
-New Line is added
 New_textfileNew_textfileNew_textfile
 New_textfile
 New_textfile
-New_textfile
-New_textfile
-New_textfile
+This is new code has been added to the
 New_textfile
 New_textfileNew_textfile
