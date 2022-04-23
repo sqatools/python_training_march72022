@@ -1,0 +1,23 @@
+var1 = 10
+var2 = 20
+1) Equal to operator : ==
+    var1 == var2
+2) Greater than : >    :   var1 > var2
+3) Less than : <       :   var1 < var2
+4) Greater than : >=   :   var1 >= var2
+5) Less than Equal to : <=  : var1 <= var2
+6) not equal : !=    : var1 != var2
+
+7) and condition
+
+True and True : True
+False and True : False
+True and False : False
+False and False : False
+
+8) Or Condition
+
+True or True : True
+False or True : True
+True or False : True
+False or False : False

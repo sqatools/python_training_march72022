@@ -1,0 +1,12 @@
+1) Python Programming Language.
+   -> Easy to Learn
+   -> Widelly accepted in global market
+   -> Develpment,  DevOps, Automation, Medical , Data Science, Machine
+      Learning
+
+2) Donwload Python -> Setup_path -> start with commandline interpreter.
+
+3) Execute python file from CLI
+
+4) Install Pycharm and Configure Project.
+

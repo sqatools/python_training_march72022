@@ -1,0 +1,45 @@
+1) Write a python program to read file with read mode.
+2) Write a python program to overwrite existing file with write mode.
+3) Write a python program to append data to existing and new file
+   with append mode.
+4) Write a python program to get last three and first three ans last
+   three lines of file.
+5) Write a python program to get all the email ids from text file.
+6) Write a python program to replace a word1 to word2 in entire file.
+7) Write a python program to get specific number line from the given file.
+8) Write a python program get odd line and even line from files 
+   and append it to separate files respectively.
+
+9) Write a python program to read first n lines of a file.
+10) Write a python program to read last n lines of a file.
+11) Write a python program to read a file line by line and store it into a list.
+12) Write a python program to find the longest word in a file.
+13) Write a python program to get count specific of word in a file.
+14) Write a python program to copy the contents of file to another file.
+15) Write a python program to read a readom line from a file.
+16) Write a python program to convert all char from upper to lower and lower to upper.
+17) Write a python program to get count of all the words from a file.
+18) Write a python program sort all the lines as per line size.
+19) Write a python program to consider text file and db file
+    and store all the student information in a text file.
+20) Write a python program to get size of all line and add in another file.
+21) Write a python program to create n number of text files with
+    given strings.
+22) Write a python program to generate text file with all alphates 
+    e.g. A.txt , B.txt, C.txt..... Z.txt
+23) Write python program to get all odd length and even length words
+    in two separate files.
+24) Write a python program to get all mobile numbers from a file.
+    e.g  each mobile number size should be 10.
+25) Write a python program to get list of all domains from a file.
+    e.g. .com, .au, .in
+   
+
+
+    
+
+
+
+
+    
+

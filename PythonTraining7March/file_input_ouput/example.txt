@@ -1,0 +1,5 @@
+Learning Java programming is fun
+Java is Dynamic programming language
+Data analytic use Java to sort data
+We use Java in Development and Automation
+

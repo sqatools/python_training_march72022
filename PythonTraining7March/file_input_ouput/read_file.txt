@@ -1,0 +1,3 @@
+This is new, we want to write
+ Appending content to existing file
+ Appending content to existing file

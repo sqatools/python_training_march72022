@@ -1,0 +1,38 @@
+Practice Program :
+
+1.  Get all even and odd number from given list
+list1 = [3, 5, 2, 11, 4, 6, 7, 8, 23]
+
+2.  Get square of all even number from 1 to 20.
+
+3. Print all the character in given pattern from given string
+str1 = "Python"
+output =
+_P_
+_y_
+_t_
+_h_
+_o_
+_n_
+
+Practice Programs :
+
+4. Write a python program to print combination of two number whose  sum is 15 from 1 to 50.
+Output :
+7,8
+5, 10
+9, 6
+etc...
+
+5. Write a python program to print given pattern:
+output
+
+5
+10  15
+20  25   30
+35  40   45   50
+55  60   65    70   75
+70  65   60    55
+50  45   40
+35  30
+25
